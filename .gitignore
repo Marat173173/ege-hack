@@ -23,3 +23,11 @@ yarn-error.log*
 *.pem
 .vercel
 /coverage
+
+# кэш TypeScript
+*.tsbuildinfo
+
+# Переменные окружения
+.env
+.env.local
+.env.production.local
